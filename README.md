@@ -4,9 +4,12 @@ A small native macOS app (menu bar + controls window) for the HyperX QuadCast S,
 
 ## Demo
 
-<https://github.com/dcoferraz/mac-hyper-x/raw/main/docs/quadcast-control.mp4>
+A 38-second narrated walkthrough, in two cuts:
 
-[![QuadCast Control](docs/poster.png)](docs/quadcast-control.mp4)
+- [Widescreen, 1920x1080](docs/quadcast-control-wide.mp4)
+- [Vertical, 1080x1920](docs/quadcast-control-vertical.mp4) — for phone-shaped places
+
+[![QuadCast Control](docs/poster.png)](docs/quadcast-control-wide.mp4)
 
 ![The controls window](docs/window.png)
 
