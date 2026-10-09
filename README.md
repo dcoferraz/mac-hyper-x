@@ -2,6 +2,14 @@
 
 A small native macOS app (menu bar + controls window) for the HyperX QuadCast S, covering what NGENUITY does on Windows: lighting effects per ring, brightness, speed, presets, plus software mic gain and headphone volume.
 
+## Demo
+
+<https://github.com/dcoferraz/mac-hyper-x/raw/main/docs/quadcast-control.mp4>
+
+[![QuadCast Control](docs/poster.png)](docs/quadcast-control.mp4)
+
+![The controls window](docs/window.png)
+
 ## Requirements
 
 macOS 13 Ventura or newer, and the Xcode Command Line Tools (`xcode-select --install`). Full Xcode isn't needed.
