@@ -2,6 +2,13 @@
   <img src="docs/banner.png" alt="QuadCast Control" width="860">
 </p>
 
+<p align="center">
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue?style=flat-square"></a>
+  <a href="#requirements"><img alt="Platform: macOS 13+" src="https://img.shields.io/badge/Platform-macOS%2013%2B-000000?style=flat-square&logo=apple&logoColor=white"></a>
+  <a href="Package.swift"><img alt="Swift 5.9" src="https://img.shields.io/badge/Swift-5.9-F05138?style=flat-square&logo=swift&logoColor=white"></a>
+  <a href="Package.swift"><img alt="Dependencies: none" src="https://img.shields.io/badge/Dependencies-none-2ea043?style=flat-square"></a>
+</p>
+
 A small native macOS app (menu bar + controls window) for the HyperX QuadCast S, covering what NGENUITY does on Windows: lighting effects per ring, brightness, speed, presets, plus software mic gain and headphone volume.
 
 ## Demo
